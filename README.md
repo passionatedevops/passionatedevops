@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+### Hello Friends 👋
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
