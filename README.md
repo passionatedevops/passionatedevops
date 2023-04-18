@@ -4,7 +4,7 @@
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
-<p><em>Senior Software Enginner at <a href="https://www.e-core.com/pt/">AGL</a></br>
+<!-- <p><em>Senior Software Enginner at <a href="https://www.e-core.com/pt/">AGL</a></br> -->
   
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
